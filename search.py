@@ -14,7 +14,7 @@ import random
 
 # Je google token, hierdoor weet google wie de request maakt.
 # Hoe vraag je er eentje aan? Dit leer je op https://developers.google.com/places/web-service/get-api-key
-google_token = 'AIzaSyA3WWo7gBxUpkhCBt4WfWpZ7Xrc6-Mo2Ac'
+google_token = ''
 
 # In deze list worden alle labels gezet die momenteel op het scherm staan.
 selected_labels = []
